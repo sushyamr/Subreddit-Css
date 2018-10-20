@@ -729,7 +729,7 @@ a[href$="user/AutoModerator"]:after{content:"Auto Admiral";visibility:visible;fo
 .res .moderator:after,.res .submitter:after,.res .admin:after,.res .friend:after{font-weight:Bold;padding:0 2px;border-radius:2px}
 .sidecontentbox .helplink + .title h1{font-size:0}
 .sidecontentbox .helplink + .title h1:before{font-size:14px;content:"Marshal Admirals"}
-.author[href$="EatMortredCrits"]:after{color:#002699;content:" [Hungry Wolf Waifu]"}.author[href$="ruiooshima"]:after{color:#ff7f00;content:" [Refueling Akizuki]"}.author[href$="DuskOfDawn23"]:after{color:#006600;content:" [Archbishop of the Church of Tsuns]"}.author[href$="Secretary_Ooyodo"]:after{content:" [作戦作戦作戦]"}.author[href$="_tickles"]:after{content:" [DesDiv17 Captain]"}
+.author[href$="EatMortredCrits"]:after{color:#002699;content:" [Hungry Wolf Waifu]"}.author[href$="ruiooshima"]:after{color:#ff7f00;content:" [Refueling Akizuki]"}.author[href$="DuskOfDawn23"]:after{color:#006600;content:" [Archbishop of the Church of Tsuns]"}.author[href$="Secretary_Ooyodo"]:after{content:" [作戦作戦作戦]"}.author[href$="sushicurry"]:after{color:#dc5eea;content:" [On date with Katsuragi]"}.author[href$="_tickles"]:after{content:" [DesDiv17 Captain]"}
 
 
 /* --  #M12 - End AutoMod Name And Colours ---- */
